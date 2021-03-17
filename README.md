@@ -1,7 +1,6 @@
-# Nome do Projeto 
+
 <h1 align="center">Bruno Tatsch</h1>
 
-# Descrição do Projeto
 <p align="center">Software Developer</p>
 
 <p align="center">
